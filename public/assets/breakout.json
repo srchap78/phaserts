@@ -1,0 +1,7330 @@
+{
+	"textures": [
+		{
+			"image": "breakout-0.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1980,
+				"h": 1820
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "238-Breakout-Tiles.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 485,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 485,
+						"h": 128
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 485,
+						"h": 128
+					}
+				},
+				{
+					"filename": "239-Breakout-Tiles.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 485,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 485,
+						"h": 128
+					},
+					"frame": {
+						"x": 1,
+						"y": 131,
+						"w": 485,
+						"h": 128
+					}
+				},
+				{
+					"filename": "240-Breakout-Tiles.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 485,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 485,
+						"h": 128
+					},
+					"frame": {
+						"x": 1,
+						"y": 261,
+						"w": 485,
+						"h": 128
+					}
+				},
+				{
+					"filename": "241-Breakout-Tiles.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 485,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 485,
+						"h": 128
+					},
+					"frame": {
+						"x": 1,
+						"y": 391,
+						"w": 485,
+						"h": 128
+					}
+				},
+				{
+					"filename": "258-Breakout-Tiles.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 485,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 485,
+						"h": 128
+					},
+					"frame": {
+						"x": 1,
+						"y": 521,
+						"w": 485,
+						"h": 128
+					}
+				},
+				{
+					"filename": "259-Breakout-Tiles.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 485,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 485,
+						"h": 128
+					},
+					"frame": {
+						"x": 1,
+						"y": 651,
+						"w": 485,
+						"h": 128
+					}
+				},
+				{
+					"filename": "260-Breakout-Tiles.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 485,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 485,
+						"h": 128
+					},
+					"frame": {
+						"x": 1,
+						"y": 781,
+						"w": 485,
+						"h": 128
+					}
+				},
+				{
+					"filename": "261-Breakout-Tiles.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 485,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 485,
+						"h": 128
+					},
+					"frame": {
+						"x": 1,
+						"y": 911,
+						"w": 485,
+						"h": 128
+					}
+				},
+				{
+					"filename": "278-Breakout-Tiles.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 485,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 485,
+						"h": 128
+					},
+					"frame": {
+						"x": 1,
+						"y": 1041,
+						"w": 485,
+						"h": 128
+					}
+				},
+				{
+					"filename": "279-Breakout-Tiles.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 485,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 485,
+						"h": 128
+					},
+					"frame": {
+						"x": 1,
+						"y": 1171,
+						"w": 485,
+						"h": 128
+					}
+				},
+				{
+					"filename": "280-Breakout-Tiles.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 485,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 485,
+						"h": 128
+					},
+					"frame": {
+						"x": 1,
+						"y": 1301,
+						"w": 485,
+						"h": 128
+					}
+				},
+				{
+					"filename": "281-Breakout-Tiles.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 485,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 485,
+						"h": 128
+					},
+					"frame": {
+						"x": 1,
+						"y": 1431,
+						"w": 485,
+						"h": 128
+					}
+				},
+				{
+					"filename": "298-Breakout-Tiles.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 485,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 485,
+						"h": 128
+					},
+					"frame": {
+						"x": 1,
+						"y": 1561,
+						"w": 485,
+						"h": 128
+					}
+				},
+				{
+					"filename": "299-Breakout-Tiles.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 485,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 485,
+						"h": 128
+					},
+					"frame": {
+						"x": 1,
+						"y": 1691,
+						"w": 485,
+						"h": 128
+					}
+				},
+				{
+					"filename": "300-Breakout-Tiles.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 485,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 485,
+						"h": 128
+					},
+					"frame": {
+						"x": 488,
+						"y": 1,
+						"w": 485,
+						"h": 128
+					}
+				},
+				{
+					"filename": "301-Breakout-Tiles.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 485,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 485,
+						"h": 128
+					},
+					"frame": {
+						"x": 488,
+						"y": 131,
+						"w": 485,
+						"h": 128
+					}
+				},
+				{
+					"filename": "322-Breakout-Tiles.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 485,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 485,
+						"h": 128
+					},
+					"frame": {
+						"x": 488,
+						"y": 261,
+						"w": 485,
+						"h": 128
+					}
+				},
+				{
+					"filename": "323-Breakout-Tiles.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 485,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 485,
+						"h": 128
+					},
+					"frame": {
+						"x": 488,
+						"y": 391,
+						"w": 485,
+						"h": 128
+					}
+				},
+				{
+					"filename": "318-Breakout-Tiles.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 488,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 41,
+						"y": 0,
+						"w": 405,
+						"h": 128
+					},
+					"frame": {
+						"x": 488,
+						"y": 521,
+						"w": 405,
+						"h": 128
+					}
+				},
+				{
+					"filename": "121-Breakout-Tiles.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 384,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 384,
+						"h": 128
+					},
+					"frame": {
+						"x": 488,
+						"y": 651,
+						"w": 384,
+						"h": 128
+					}
+				},
+				{
+					"filename": "122-Breakout-Tiles.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 384,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 384,
+						"h": 128
+					},
+					"frame": {
+						"x": 874,
+						"y": 651,
+						"w": 384,
+						"h": 128
+					}
+				},
+				{
+					"filename": "123-Breakout-Tiles.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 384,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 384,
+						"h": 128
+					},
+					"frame": {
+						"x": 975,
+						"y": 1,
+						"w": 384,
+						"h": 128
+					}
+				},
+				{
+					"filename": "124-Breakout-Tiles.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 384,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 384,
+						"h": 128
+					},
+					"frame": {
+						"x": 975,
+						"y": 131,
+						"w": 384,
+						"h": 128
+					}
+				},
+				{
+					"filename": "145-Breakout-Tiles.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 384,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 384,
+						"h": 128
+					},
+					"frame": {
+						"x": 975,
+						"y": 261,
+						"w": 384,
+						"h": 128
+					}
+				},
+				{
+					"filename": "146-Breakout-Tiles.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 384,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 384,
+						"h": 128
+					},
+					"frame": {
+						"x": 975,
+						"y": 391,
+						"w": 384,
+						"h": 128
+					}
+				},
+				{
+					"filename": "147-Breakout-Tiles.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 384,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 384,
+						"h": 128
+					},
+					"frame": {
+						"x": 895,
+						"y": 521,
+						"w": 384,
+						"h": 128
+					}
+				},
+				{
+					"filename": "148-Breakout-Tiles.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 384,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 384,
+						"h": 128
+					},
+					"frame": {
+						"x": 1260,
+						"y": 651,
+						"w": 384,
+						"h": 128
+					}
+				},
+				{
+					"filename": "149-Breakout-Tiles.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 384,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 384,
+						"h": 128
+					},
+					"frame": {
+						"x": 1281,
+						"y": 521,
+						"w": 384,
+						"h": 128
+					}
+				},
+				{
+					"filename": "170-Breakout-Tiles.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 384,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 384,
+						"h": 128
+					},
+					"frame": {
+						"x": 1361,
+						"y": 1,
+						"w": 384,
+						"h": 128
+					}
+				},
+				{
+					"filename": "171-Breakout-Tiles.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 384,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 384,
+						"h": 128
+					},
+					"frame": {
+						"x": 1361,
+						"y": 131,
+						"w": 384,
+						"h": 128
+					}
+				},
+				{
+					"filename": "172-Breakout-Tiles.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 384,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 384,
+						"h": 128
+					},
+					"frame": {
+						"x": 1361,
+						"y": 261,
+						"w": 384,
+						"h": 128
+					}
+				},
+				{
+					"filename": "173-Breakout-Tiles.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 384,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 384,
+						"h": 128
+					},
+					"frame": {
+						"x": 1361,
+						"y": 391,
+						"w": 384,
+						"h": 128
+					}
+				},
+				{
+					"filename": "319-Breakout-Tiles.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 488,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 77,
+						"y": 0,
+						"w": 333,
+						"h": 128
+					},
+					"frame": {
+						"x": 1646,
+						"y": 651,
+						"w": 333,
+						"h": 128
+					}
+				},
+				{
+					"filename": "320-Breakout-Tiles.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 488,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 113,
+						"y": 0,
+						"w": 261,
+						"h": 128
+					},
+					"frame": {
+						"x": 1667,
+						"y": 521,
+						"w": 261,
+						"h": 128
+					}
+				},
+				{
+					"filename": "334-Breakout-Tiles.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 230,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 230,
+						"h": 128
+					},
+					"frame": {
+						"x": 1747,
+						"y": 1,
+						"w": 230,
+						"h": 128
+					}
+				},
+				{
+					"filename": "335-Breakout-Tiles.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 230,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 230,
+						"h": 128
+					},
+					"frame": {
+						"x": 1747,
+						"y": 131,
+						"w": 230,
+						"h": 128
+					}
+				},
+				{
+					"filename": "215-Breakout-Tiles.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 128,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 128,
+						"h": 128
+					},
+					"frame": {
+						"x": 1747,
+						"y": 261,
+						"w": 128,
+						"h": 128
+					}
+				},
+				{
+					"filename": "216-Breakout-Tiles.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 128,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 128,
+						"h": 128
+					},
+					"frame": {
+						"x": 1747,
+						"y": 391,
+						"w": 128,
+						"h": 128
+					}
+				},
+				{
+					"filename": "346-Breakout-Tiles.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 19,
+						"h": 41
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 19,
+						"h": 41
+					},
+					"frame": {
+						"x": 1877,
+						"y": 261,
+						"w": 19,
+						"h": 41
+					}
+				},
+				{
+					"filename": "174-Breakout-Tiles.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 384,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 384,
+						"h": 128
+					},
+					"frame": {
+						"x": 488,
+						"y": 781,
+						"w": 384,
+						"h": 128
+					}
+				},
+				{
+					"filename": "195-Breakout-Tiles.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 384,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 384,
+						"h": 128
+					},
+					"frame": {
+						"x": 874,
+						"y": 781,
+						"w": 384,
+						"h": 128
+					}
+				},
+				{
+					"filename": "196-Breakout-Tiles.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 384,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 384,
+						"h": 128
+					},
+					"frame": {
+						"x": 1260,
+						"y": 781,
+						"w": 384,
+						"h": 128
+					}
+				},
+				{
+					"filename": "217-Breakout-Tiles.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 128,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 128,
+						"h": 128
+					},
+					"frame": {
+						"x": 1646,
+						"y": 781,
+						"w": 128,
+						"h": 128
+					}
+				},
+				{
+					"filename": "218-Breakout-Tiles.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 128,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 128,
+						"h": 128
+					},
+					"frame": {
+						"x": 1776,
+						"y": 781,
+						"w": 128,
+						"h": 128
+					}
+				},
+				{
+					"filename": "197-Breakout-Tiles.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 384,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 384,
+						"h": 128
+					},
+					"frame": {
+						"x": 488,
+						"y": 911,
+						"w": 384,
+						"h": 128
+					}
+				},
+				{
+					"filename": "198-Breakout-Tiles.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 384,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 384,
+						"h": 128
+					},
+					"frame": {
+						"x": 874,
+						"y": 911,
+						"w": 384,
+						"h": 128
+					}
+				},
+				{
+					"filename": "199-Breakout-Tiles.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 384,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 384,
+						"h": 128
+					},
+					"frame": {
+						"x": 1260,
+						"y": 911,
+						"w": 384,
+						"h": 128
+					}
+				},
+				{
+					"filename": "223-Breakout-Tiles.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 128,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 128,
+						"h": 128
+					},
+					"frame": {
+						"x": 1646,
+						"y": 911,
+						"w": 128,
+						"h": 128
+					}
+				},
+				{
+					"filename": "224-Breakout-Tiles.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 128,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 128,
+						"h": 128
+					},
+					"frame": {
+						"x": 1776,
+						"y": 911,
+						"w": 128,
+						"h": 128
+					}
+				},
+				{
+					"filename": "001-Breakout-Tiles.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 366,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 366,
+						"h": 128
+					},
+					"frame": {
+						"x": 488,
+						"y": 1041,
+						"w": 366,
+						"h": 128
+					}
+				},
+				{
+					"filename": "002-Breakout-Tiles.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 366,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 366,
+						"h": 128
+					},
+					"frame": {
+						"x": 856,
+						"y": 1041,
+						"w": 366,
+						"h": 128
+					}
+				},
+				{
+					"filename": "003-Breakout-Tiles.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 366,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 366,
+						"h": 128
+					},
+					"frame": {
+						"x": 1224,
+						"y": 1041,
+						"w": 366,
+						"h": 128
+					}
+				},
+				{
+					"filename": "004-Breakout-Tiles.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 366,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 366,
+						"h": 128
+					},
+					"frame": {
+						"x": 1592,
+						"y": 1041,
+						"w": 366,
+						"h": 128
+					}
+				},
+				{
+					"filename": "025-Breakout-Tiles.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 366,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 366,
+						"h": 128
+					},
+					"frame": {
+						"x": 488,
+						"y": 1171,
+						"w": 366,
+						"h": 128
+					}
+				},
+				{
+					"filename": "026-Breakout-Tiles.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 366,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 366,
+						"h": 128
+					},
+					"frame": {
+						"x": 856,
+						"y": 1171,
+						"w": 366,
+						"h": 128
+					}
+				},
+				{
+					"filename": "027-Breakout-Tiles.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 366,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 366,
+						"h": 128
+					},
+					"frame": {
+						"x": 1224,
+						"y": 1171,
+						"w": 366,
+						"h": 128
+					}
+				},
+				{
+					"filename": "028-Breakout-Tiles.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 366,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 366,
+						"h": 128
+					},
+					"frame": {
+						"x": 1592,
+						"y": 1171,
+						"w": 366,
+						"h": 128
+					}
+				},
+				{
+					"filename": "049-Breakout-Tiles.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 366,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 366,
+						"h": 128
+					},
+					"frame": {
+						"x": 488,
+						"y": 1301,
+						"w": 366,
+						"h": 128
+					}
+				},
+				{
+					"filename": "050-Breakout-Tiles.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 366,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 366,
+						"h": 128
+					},
+					"frame": {
+						"x": 856,
+						"y": 1301,
+						"w": 366,
+						"h": 128
+					}
+				},
+				{
+					"filename": "051-Breakout-Tiles.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 366,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 366,
+						"h": 128
+					},
+					"frame": {
+						"x": 1224,
+						"y": 1301,
+						"w": 366,
+						"h": 128
+					}
+				},
+				{
+					"filename": "052-Breakout-Tiles.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 366,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 366,
+						"h": 128
+					},
+					"frame": {
+						"x": 1592,
+						"y": 1301,
+						"w": 366,
+						"h": 128
+					}
+				},
+				{
+					"filename": "073-Breakout-Tiles.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 366,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 366,
+						"h": 128
+					},
+					"frame": {
+						"x": 488,
+						"y": 1431,
+						"w": 366,
+						"h": 128
+					}
+				},
+				{
+					"filename": "074-Breakout-Tiles.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 366,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 366,
+						"h": 128
+					},
+					"frame": {
+						"x": 856,
+						"y": 1431,
+						"w": 366,
+						"h": 128
+					}
+				},
+				{
+					"filename": "075-Breakout-Tiles.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 366,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 366,
+						"h": 128
+					},
+					"frame": {
+						"x": 1224,
+						"y": 1431,
+						"w": 366,
+						"h": 128
+					}
+				},
+				{
+					"filename": "076-Breakout-Tiles.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 366,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 366,
+						"h": 128
+					},
+					"frame": {
+						"x": 1592,
+						"y": 1431,
+						"w": 366,
+						"h": 128
+					}
+				},
+				{
+					"filename": "097-Breakout-Tiles.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 366,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 366,
+						"h": 128
+					},
+					"frame": {
+						"x": 488,
+						"y": 1561,
+						"w": 366,
+						"h": 128
+					}
+				},
+				{
+					"filename": "098-Breakout-Tiles.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 366,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 366,
+						"h": 128
+					},
+					"frame": {
+						"x": 856,
+						"y": 1561,
+						"w": 366,
+						"h": 128
+					}
+				},
+				{
+					"filename": "099-Breakout-Tiles.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 366,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 366,
+						"h": 128
+					},
+					"frame": {
+						"x": 1224,
+						"y": 1561,
+						"w": 366,
+						"h": 128
+					}
+				},
+				{
+					"filename": "100-Breakout-Tiles.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 366,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 366,
+						"h": 128
+					},
+					"frame": {
+						"x": 1592,
+						"y": 1561,
+						"w": 366,
+						"h": 128
+					}
+				},
+				{
+					"filename": "225-Breakout-Tiles.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 128,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 128,
+						"h": 128
+					},
+					"frame": {
+						"x": 488,
+						"y": 1691,
+						"w": 128,
+						"h": 128
+					}
+				},
+				{
+					"filename": "226-Breakout-Tiles.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 128,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 128,
+						"h": 128
+					},
+					"frame": {
+						"x": 618,
+						"y": 1691,
+						"w": 128,
+						"h": 128
+					}
+				},
+				{
+					"filename": "336-Breakout-Tiles.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 128,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 128,
+						"h": 128
+					},
+					"frame": {
+						"x": 748,
+						"y": 1691,
+						"w": 128,
+						"h": 128
+					}
+				},
+				{
+					"filename": "337-Breakout-Tiles.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 128,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 128,
+						"h": 128
+					},
+					"frame": {
+						"x": 878,
+						"y": 1691,
+						"w": 128,
+						"h": 128
+					}
+				},
+				{
+					"filename": "338-Breakout-Tiles.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 128,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 128,
+						"h": 128
+					},
+					"frame": {
+						"x": 1008,
+						"y": 1691,
+						"w": 128,
+						"h": 128
+					}
+				},
+				{
+					"filename": "339-Breakout-Tiles.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 128,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 128,
+						"h": 128
+					},
+					"frame": {
+						"x": 1138,
+						"y": 1691,
+						"w": 128,
+						"h": 128
+					}
+				},
+				{
+					"filename": "344-Breakout-Tiles.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 128,
+						"h": 123
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 128,
+						"h": 123
+					},
+					"frame": {
+						"x": 1268,
+						"y": 1691,
+						"w": 128,
+						"h": 123
+					}
+				},
+				{
+					"filename": "342-Breakout-Tiles.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 128,
+						"h": 122
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 128,
+						"h": 122
+					},
+					"frame": {
+						"x": 1398,
+						"y": 1691,
+						"w": 128,
+						"h": 122
+					}
+				},
+				{
+					"filename": "345-Breakout-Tiles.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 128,
+						"h": 117
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 128,
+						"h": 117
+					},
+					"frame": {
+						"x": 1528,
+						"y": 1691,
+						"w": 128,
+						"h": 117
+					}
+				},
+				{
+					"filename": "343-Breakout-Tiles.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 128,
+						"h": 116
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 128,
+						"h": 116
+					},
+					"frame": {
+						"x": 1658,
+						"y": 1691,
+						"w": 128,
+						"h": 116
+					}
+				}
+			]
+		},
+		{
+			"image": "breakout-1.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 2006,
+				"h": 1820
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "242-Breakout-Tiles.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 485,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 485,
+						"h": 128
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 485,
+						"h": 128
+					}
+				},
+				{
+					"filename": "243-Breakout-Tiles.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 485,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 485,
+						"h": 128
+					},
+					"frame": {
+						"x": 488,
+						"y": 1,
+						"w": 485,
+						"h": 128
+					}
+				},
+				{
+					"filename": "244-Breakout-Tiles.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 485,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 485,
+						"h": 128
+					},
+					"frame": {
+						"x": 975,
+						"y": 1,
+						"w": 485,
+						"h": 128
+					}
+				},
+				{
+					"filename": "245-Breakout-Tiles.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 485,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 485,
+						"h": 128
+					},
+					"frame": {
+						"x": 1462,
+						"y": 1,
+						"w": 485,
+						"h": 128
+					}
+				},
+				{
+					"filename": "262-Breakout-Tiles.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 485,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 485,
+						"h": 128
+					},
+					"frame": {
+						"x": 1,
+						"y": 131,
+						"w": 485,
+						"h": 128
+					}
+				},
+				{
+					"filename": "263-Breakout-Tiles.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 485,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 485,
+						"h": 128
+					},
+					"frame": {
+						"x": 488,
+						"y": 131,
+						"w": 485,
+						"h": 128
+					}
+				},
+				{
+					"filename": "264-Breakout-Tiles.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 485,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 485,
+						"h": 128
+					},
+					"frame": {
+						"x": 975,
+						"y": 131,
+						"w": 485,
+						"h": 128
+					}
+				},
+				{
+					"filename": "265-Breakout-Tiles.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 485,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 485,
+						"h": 128
+					},
+					"frame": {
+						"x": 1462,
+						"y": 131,
+						"w": 485,
+						"h": 128
+					}
+				},
+				{
+					"filename": "282-Breakout-Tiles.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 485,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 485,
+						"h": 128
+					},
+					"frame": {
+						"x": 1,
+						"y": 261,
+						"w": 485,
+						"h": 128
+					}
+				},
+				{
+					"filename": "283-Breakout-Tiles.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 485,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 485,
+						"h": 128
+					},
+					"frame": {
+						"x": 488,
+						"y": 261,
+						"w": 485,
+						"h": 128
+					}
+				},
+				{
+					"filename": "284-Breakout-Tiles.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 485,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 485,
+						"h": 128
+					},
+					"frame": {
+						"x": 975,
+						"y": 261,
+						"w": 485,
+						"h": 128
+					}
+				},
+				{
+					"filename": "285-Breakout-Tiles.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 485,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 485,
+						"h": 128
+					},
+					"frame": {
+						"x": 1462,
+						"y": 261,
+						"w": 485,
+						"h": 128
+					}
+				},
+				{
+					"filename": "302-Breakout-Tiles.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 485,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 485,
+						"h": 128
+					},
+					"frame": {
+						"x": 1,
+						"y": 391,
+						"w": 485,
+						"h": 128
+					}
+				},
+				{
+					"filename": "303-Breakout-Tiles.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 485,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 485,
+						"h": 128
+					},
+					"frame": {
+						"x": 488,
+						"y": 391,
+						"w": 485,
+						"h": 128
+					}
+				},
+				{
+					"filename": "304-Breakout-Tiles.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 485,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 485,
+						"h": 128
+					},
+					"frame": {
+						"x": 975,
+						"y": 391,
+						"w": 485,
+						"h": 128
+					}
+				},
+				{
+					"filename": "305-Breakout-Tiles.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 485,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 485,
+						"h": 128
+					},
+					"frame": {
+						"x": 1462,
+						"y": 391,
+						"w": 485,
+						"h": 128
+					}
+				},
+				{
+					"filename": "324-Breakout-Tiles.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 485,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 485,
+						"h": 128
+					},
+					"frame": {
+						"x": 1,
+						"y": 521,
+						"w": 485,
+						"h": 128
+					}
+				},
+				{
+					"filename": "325-Breakout-Tiles.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 485,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 485,
+						"h": 128
+					},
+					"frame": {
+						"x": 1,
+						"y": 651,
+						"w": 485,
+						"h": 128
+					}
+				},
+				{
+					"filename": "326-Breakout-Tiles.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 485,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 485,
+						"h": 128
+					},
+					"frame": {
+						"x": 1,
+						"y": 781,
+						"w": 485,
+						"h": 128
+					}
+				},
+				{
+					"filename": "327-Breakout-Tiles.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 485,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 485,
+						"h": 128
+					},
+					"frame": {
+						"x": 1,
+						"y": 911,
+						"w": 485,
+						"h": 128
+					}
+				},
+				{
+					"filename": "125-Breakout-Tiles.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 384,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 384,
+						"h": 128
+					},
+					"frame": {
+						"x": 1,
+						"y": 1041,
+						"w": 384,
+						"h": 128
+					}
+				},
+				{
+					"filename": "126-Breakout-Tiles.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 384,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 384,
+						"h": 128
+					},
+					"frame": {
+						"x": 1,
+						"y": 1171,
+						"w": 384,
+						"h": 128
+					}
+				},
+				{
+					"filename": "127-Breakout-Tiles.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 384,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 384,
+						"h": 128
+					},
+					"frame": {
+						"x": 1,
+						"y": 1301,
+						"w": 384,
+						"h": 128
+					}
+				},
+				{
+					"filename": "128-Breakout-Tiles.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 384,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 384,
+						"h": 128
+					},
+					"frame": {
+						"x": 1,
+						"y": 1431,
+						"w": 384,
+						"h": 128
+					}
+				},
+				{
+					"filename": "129-Breakout-Tiles.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 384,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 384,
+						"h": 128
+					},
+					"frame": {
+						"x": 1,
+						"y": 1561,
+						"w": 384,
+						"h": 128
+					}
+				},
+				{
+					"filename": "150-Breakout-Tiles.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 384,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 384,
+						"h": 128
+					},
+					"frame": {
+						"x": 1,
+						"y": 1691,
+						"w": 384,
+						"h": 128
+					}
+				},
+				{
+					"filename": "151-Breakout-Tiles.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 384,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 384,
+						"h": 128
+					},
+					"frame": {
+						"x": 387,
+						"y": 1041,
+						"w": 384,
+						"h": 128
+					}
+				},
+				{
+					"filename": "152-Breakout-Tiles.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 384,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 384,
+						"h": 128
+					},
+					"frame": {
+						"x": 488,
+						"y": 521,
+						"w": 384,
+						"h": 128
+					}
+				},
+				{
+					"filename": "153-Breakout-Tiles.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 384,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 384,
+						"h": 128
+					},
+					"frame": {
+						"x": 488,
+						"y": 651,
+						"w": 384,
+						"h": 128
+					}
+				},
+				{
+					"filename": "154-Breakout-Tiles.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 384,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 384,
+						"h": 128
+					},
+					"frame": {
+						"x": 488,
+						"y": 781,
+						"w": 384,
+						"h": 128
+					}
+				},
+				{
+					"filename": "175-Breakout-Tiles.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 384,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 384,
+						"h": 128
+					},
+					"frame": {
+						"x": 488,
+						"y": 911,
+						"w": 384,
+						"h": 128
+					}
+				},
+				{
+					"filename": "176-Breakout-Tiles.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 384,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 384,
+						"h": 128
+					},
+					"frame": {
+						"x": 387,
+						"y": 1171,
+						"w": 384,
+						"h": 128
+					}
+				},
+				{
+					"filename": "177-Breakout-Tiles.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 384,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 384,
+						"h": 128
+					},
+					"frame": {
+						"x": 387,
+						"y": 1301,
+						"w": 384,
+						"h": 128
+					}
+				},
+				{
+					"filename": "178-Breakout-Tiles.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 384,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 384,
+						"h": 128
+					},
+					"frame": {
+						"x": 387,
+						"y": 1431,
+						"w": 384,
+						"h": 128
+					}
+				},
+				{
+					"filename": "179-Breakout-Tiles.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 384,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 384,
+						"h": 128
+					},
+					"frame": {
+						"x": 387,
+						"y": 1561,
+						"w": 384,
+						"h": 128
+					}
+				},
+				{
+					"filename": "200-Breakout-Tiles.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 384,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 384,
+						"h": 128
+					},
+					"frame": {
+						"x": 387,
+						"y": 1691,
+						"w": 384,
+						"h": 128
+					}
+				},
+				{
+					"filename": "201-Breakout-Tiles.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 384,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 384,
+						"h": 128
+					},
+					"frame": {
+						"x": 773,
+						"y": 1041,
+						"w": 384,
+						"h": 128
+					}
+				},
+				{
+					"filename": "202-Breakout-Tiles.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 384,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 384,
+						"h": 128
+					},
+					"frame": {
+						"x": 874,
+						"y": 521,
+						"w": 384,
+						"h": 128
+					}
+				},
+				{
+					"filename": "203-Breakout-Tiles.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 384,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 384,
+						"h": 128
+					},
+					"frame": {
+						"x": 874,
+						"y": 651,
+						"w": 384,
+						"h": 128
+					}
+				},
+				{
+					"filename": "204-Breakout-Tiles.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 384,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 384,
+						"h": 128
+					},
+					"frame": {
+						"x": 874,
+						"y": 781,
+						"w": 384,
+						"h": 128
+					}
+				},
+				{
+					"filename": "005-Breakout-Tiles.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 366,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 366,
+						"h": 128
+					},
+					"frame": {
+						"x": 874,
+						"y": 911,
+						"w": 366,
+						"h": 128
+					}
+				},
+				{
+					"filename": "006-Breakout-Tiles.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 366,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 366,
+						"h": 128
+					},
+					"frame": {
+						"x": 1260,
+						"y": 521,
+						"w": 366,
+						"h": 128
+					}
+				},
+				{
+					"filename": "007-Breakout-Tiles.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 366,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 366,
+						"h": 128
+					},
+					"frame": {
+						"x": 1628,
+						"y": 521,
+						"w": 366,
+						"h": 128
+					}
+				},
+				{
+					"filename": "008-Breakout-Tiles.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 366,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 366,
+						"h": 128
+					},
+					"frame": {
+						"x": 1260,
+						"y": 651,
+						"w": 366,
+						"h": 128
+					}
+				},
+				{
+					"filename": "009-Breakout-Tiles.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 366,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 366,
+						"h": 128
+					},
+					"frame": {
+						"x": 1628,
+						"y": 651,
+						"w": 366,
+						"h": 128
+					}
+				},
+				{
+					"filename": "029-Breakout-Tiles.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 366,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 366,
+						"h": 128
+					},
+					"frame": {
+						"x": 1260,
+						"y": 781,
+						"w": 366,
+						"h": 128
+					}
+				},
+				{
+					"filename": "030-Breakout-Tiles.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 366,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 366,
+						"h": 128
+					},
+					"frame": {
+						"x": 1628,
+						"y": 781,
+						"w": 366,
+						"h": 128
+					}
+				},
+				{
+					"filename": "031-Breakout-Tiles.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 366,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 366,
+						"h": 128
+					},
+					"frame": {
+						"x": 1242,
+						"y": 911,
+						"w": 366,
+						"h": 128
+					}
+				},
+				{
+					"filename": "032-Breakout-Tiles.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 366,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 366,
+						"h": 128
+					},
+					"frame": {
+						"x": 1610,
+						"y": 911,
+						"w": 366,
+						"h": 128
+					}
+				},
+				{
+					"filename": "033-Breakout-Tiles.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 366,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 366,
+						"h": 128
+					},
+					"frame": {
+						"x": 1159,
+						"y": 1041,
+						"w": 366,
+						"h": 128
+					}
+				},
+				{
+					"filename": "053-Breakout-Tiles.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 366,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 366,
+						"h": 128
+					},
+					"frame": {
+						"x": 1527,
+						"y": 1041,
+						"w": 366,
+						"h": 128
+					}
+				},
+				{
+					"filename": "054-Breakout-Tiles.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 366,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 366,
+						"h": 128
+					},
+					"frame": {
+						"x": 773,
+						"y": 1171,
+						"w": 366,
+						"h": 128
+					}
+				},
+				{
+					"filename": "055-Breakout-Tiles.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 366,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 366,
+						"h": 128
+					},
+					"frame": {
+						"x": 773,
+						"y": 1301,
+						"w": 366,
+						"h": 128
+					}
+				},
+				{
+					"filename": "056-Breakout-Tiles.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 366,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 366,
+						"h": 128
+					},
+					"frame": {
+						"x": 773,
+						"y": 1431,
+						"w": 366,
+						"h": 128
+					}
+				},
+				{
+					"filename": "057-Breakout-Tiles.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 366,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 366,
+						"h": 128
+					},
+					"frame": {
+						"x": 773,
+						"y": 1561,
+						"w": 366,
+						"h": 128
+					}
+				},
+				{
+					"filename": "077-Breakout-Tiles.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 366,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 366,
+						"h": 128
+					},
+					"frame": {
+						"x": 773,
+						"y": 1691,
+						"w": 366,
+						"h": 128
+					}
+				},
+				{
+					"filename": "078-Breakout-Tiles.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 366,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 366,
+						"h": 128
+					},
+					"frame": {
+						"x": 1141,
+						"y": 1171,
+						"w": 366,
+						"h": 128
+					}
+				},
+				{
+					"filename": "079-Breakout-Tiles.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 366,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 366,
+						"h": 128
+					},
+					"frame": {
+						"x": 1509,
+						"y": 1171,
+						"w": 366,
+						"h": 128
+					}
+				},
+				{
+					"filename": "211-Breakout-Tiles.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 128,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 128,
+						"h": 128
+					},
+					"frame": {
+						"x": 1877,
+						"y": 1171,
+						"w": 128,
+						"h": 128
+					}
+				},
+				{
+					"filename": "080-Breakout-Tiles.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 366,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 366,
+						"h": 128
+					},
+					"frame": {
+						"x": 1141,
+						"y": 1301,
+						"w": 366,
+						"h": 128
+					}
+				},
+				{
+					"filename": "081-Breakout-Tiles.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 366,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 366,
+						"h": 128
+					},
+					"frame": {
+						"x": 1509,
+						"y": 1301,
+						"w": 366,
+						"h": 128
+					}
+				},
+				{
+					"filename": "219-Breakout-Tiles.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 128,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 128,
+						"h": 128
+					},
+					"frame": {
+						"x": 1877,
+						"y": 1301,
+						"w": 128,
+						"h": 128
+					}
+				},
+				{
+					"filename": "101-Breakout-Tiles.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 366,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 366,
+						"h": 128
+					},
+					"frame": {
+						"x": 1141,
+						"y": 1431,
+						"w": 366,
+						"h": 128
+					}
+				},
+				{
+					"filename": "102-Breakout-Tiles.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 366,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 366,
+						"h": 128
+					},
+					"frame": {
+						"x": 1141,
+						"y": 1561,
+						"w": 366,
+						"h": 128
+					}
+				},
+				{
+					"filename": "103-Breakout-Tiles.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 366,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 366,
+						"h": 128
+					},
+					"frame": {
+						"x": 1141,
+						"y": 1691,
+						"w": 366,
+						"h": 128
+					}
+				},
+				{
+					"filename": "104-Breakout-Tiles.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 366,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 366,
+						"h": 128
+					},
+					"frame": {
+						"x": 1509,
+						"y": 1431,
+						"w": 366,
+						"h": 128
+					}
+				},
+				{
+					"filename": "227-Breakout-Tiles.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 128,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 128,
+						"h": 128
+					},
+					"frame": {
+						"x": 1877,
+						"y": 1431,
+						"w": 128,
+						"h": 128
+					}
+				},
+				{
+					"filename": "105-Breakout-Tiles.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 366,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 366,
+						"h": 128
+					},
+					"frame": {
+						"x": 1509,
+						"y": 1561,
+						"w": 366,
+						"h": 128
+					}
+				},
+				{
+					"filename": "321-Breakout-Tiles.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 488,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 149,
+						"y": 0,
+						"w": 189,
+						"h": 128
+					},
+					"frame": {
+						"x": 1509,
+						"y": 1691,
+						"w": 189,
+						"h": 128
+					}
+				}
+			]
+		},
+		{
+			"image": "breakout-2.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1948,
+				"h": 1820
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "328-Breakout-Tiles.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 693,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 693,
+						"h": 128
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 693,
+						"h": 128
+					}
+				},
+				{
+					"filename": "329-Breakout-Tiles.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 693,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 693,
+						"h": 128
+					},
+					"frame": {
+						"x": 1,
+						"y": 131,
+						"w": 693,
+						"h": 128
+					}
+				},
+				{
+					"filename": "246-Breakout-Tiles.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 485,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 485,
+						"h": 128
+					},
+					"frame": {
+						"x": 1,
+						"y": 261,
+						"w": 485,
+						"h": 128
+					}
+				},
+				{
+					"filename": "247-Breakout-Tiles.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 485,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 485,
+						"h": 128
+					},
+					"frame": {
+						"x": 488,
+						"y": 261,
+						"w": 485,
+						"h": 128
+					}
+				},
+				{
+					"filename": "248-Breakout-Tiles.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 485,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 485,
+						"h": 128
+					},
+					"frame": {
+						"x": 696,
+						"y": 1,
+						"w": 485,
+						"h": 128
+					}
+				},
+				{
+					"filename": "249-Breakout-Tiles.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 485,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 485,
+						"h": 128
+					},
+					"frame": {
+						"x": 696,
+						"y": 131,
+						"w": 485,
+						"h": 128
+					}
+				},
+				{
+					"filename": "266-Breakout-Tiles.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 485,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 485,
+						"h": 128
+					},
+					"frame": {
+						"x": 975,
+						"y": 261,
+						"w": 485,
+						"h": 128
+					}
+				},
+				{
+					"filename": "267-Breakout-Tiles.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 485,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 485,
+						"h": 128
+					},
+					"frame": {
+						"x": 1183,
+						"y": 1,
+						"w": 485,
+						"h": 128
+					}
+				},
+				{
+					"filename": "268-Breakout-Tiles.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 485,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 485,
+						"h": 128
+					},
+					"frame": {
+						"x": 1183,
+						"y": 131,
+						"w": 485,
+						"h": 128
+					}
+				},
+				{
+					"filename": "269-Breakout-Tiles.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 485,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 485,
+						"h": 128
+					},
+					"frame": {
+						"x": 1462,
+						"y": 261,
+						"w": 485,
+						"h": 128
+					}
+				},
+				{
+					"filename": "212-Breakout-Tiles.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 128,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 128,
+						"h": 128
+					},
+					"frame": {
+						"x": 1670,
+						"y": 1,
+						"w": 128,
+						"h": 128
+					}
+				},
+				{
+					"filename": "220-Breakout-Tiles.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 128,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 128,
+						"h": 128
+					},
+					"frame": {
+						"x": 1800,
+						"y": 1,
+						"w": 128,
+						"h": 128
+					}
+				},
+				{
+					"filename": "228-Breakout-Tiles.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 128,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 128,
+						"h": 128
+					},
+					"frame": {
+						"x": 1670,
+						"y": 131,
+						"w": 128,
+						"h": 128
+					}
+				},
+				{
+					"filename": "340-Breakout-Tiles.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 128,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 128,
+						"h": 128
+					},
+					"frame": {
+						"x": 1800,
+						"y": 131,
+						"w": 128,
+						"h": 128
+					}
+				},
+				{
+					"filename": "286-Breakout-Tiles.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 485,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 485,
+						"h": 128
+					},
+					"frame": {
+						"x": 1,
+						"y": 391,
+						"w": 485,
+						"h": 128
+					}
+				},
+				{
+					"filename": "287-Breakout-Tiles.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 485,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 485,
+						"h": 128
+					},
+					"frame": {
+						"x": 488,
+						"y": 391,
+						"w": 485,
+						"h": 128
+					}
+				},
+				{
+					"filename": "288-Breakout-Tiles.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 485,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 485,
+						"h": 128
+					},
+					"frame": {
+						"x": 975,
+						"y": 391,
+						"w": 485,
+						"h": 128
+					}
+				},
+				{
+					"filename": "289-Breakout-Tiles.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 485,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 485,
+						"h": 128
+					},
+					"frame": {
+						"x": 1462,
+						"y": 391,
+						"w": 485,
+						"h": 128
+					}
+				},
+				{
+					"filename": "306-Breakout-Tiles.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 485,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 485,
+						"h": 128
+					},
+					"frame": {
+						"x": 1,
+						"y": 521,
+						"w": 485,
+						"h": 128
+					}
+				},
+				{
+					"filename": "307-Breakout-Tiles.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 485,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 485,
+						"h": 128
+					},
+					"frame": {
+						"x": 488,
+						"y": 521,
+						"w": 485,
+						"h": 128
+					}
+				},
+				{
+					"filename": "308-Breakout-Tiles.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 485,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 485,
+						"h": 128
+					},
+					"frame": {
+						"x": 975,
+						"y": 521,
+						"w": 485,
+						"h": 128
+					}
+				},
+				{
+					"filename": "309-Breakout-Tiles.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 485,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 485,
+						"h": 128
+					},
+					"frame": {
+						"x": 1462,
+						"y": 521,
+						"w": 485,
+						"h": 128
+					}
+				},
+				{
+					"filename": "130-Breakout-Tiles.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 384,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 384,
+						"h": 128
+					},
+					"frame": {
+						"x": 1,
+						"y": 651,
+						"w": 384,
+						"h": 128
+					}
+				},
+				{
+					"filename": "131-Breakout-Tiles.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 384,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 384,
+						"h": 128
+					},
+					"frame": {
+						"x": 387,
+						"y": 651,
+						"w": 384,
+						"h": 128
+					}
+				},
+				{
+					"filename": "132-Breakout-Tiles.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 384,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 384,
+						"h": 128
+					},
+					"frame": {
+						"x": 773,
+						"y": 651,
+						"w": 384,
+						"h": 128
+					}
+				},
+				{
+					"filename": "133-Breakout-Tiles.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 384,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 384,
+						"h": 128
+					},
+					"frame": {
+						"x": 1159,
+						"y": 651,
+						"w": 384,
+						"h": 128
+					}
+				},
+				{
+					"filename": "134-Breakout-Tiles.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 384,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 384,
+						"h": 128
+					},
+					"frame": {
+						"x": 1545,
+						"y": 651,
+						"w": 384,
+						"h": 128
+					}
+				},
+				{
+					"filename": "155-Breakout-Tiles.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 384,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 384,
+						"h": 128
+					},
+					"frame": {
+						"x": 1,
+						"y": 781,
+						"w": 384,
+						"h": 128
+					}
+				},
+				{
+					"filename": "156-Breakout-Tiles.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 384,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 384,
+						"h": 128
+					},
+					"frame": {
+						"x": 387,
+						"y": 781,
+						"w": 384,
+						"h": 128
+					}
+				},
+				{
+					"filename": "157-Breakout-Tiles.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 384,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 384,
+						"h": 128
+					},
+					"frame": {
+						"x": 773,
+						"y": 781,
+						"w": 384,
+						"h": 128
+					}
+				},
+				{
+					"filename": "158-Breakout-Tiles.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 384,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 384,
+						"h": 128
+					},
+					"frame": {
+						"x": 1159,
+						"y": 781,
+						"w": 384,
+						"h": 128
+					}
+				},
+				{
+					"filename": "159-Breakout-Tiles.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 384,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 384,
+						"h": 128
+					},
+					"frame": {
+						"x": 1545,
+						"y": 781,
+						"w": 384,
+						"h": 128
+					}
+				},
+				{
+					"filename": "180-Breakout-Tiles.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 384,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 384,
+						"h": 128
+					},
+					"frame": {
+						"x": 1,
+						"y": 911,
+						"w": 384,
+						"h": 128
+					}
+				},
+				{
+					"filename": "181-Breakout-Tiles.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 384,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 384,
+						"h": 128
+					},
+					"frame": {
+						"x": 387,
+						"y": 911,
+						"w": 384,
+						"h": 128
+					}
+				},
+				{
+					"filename": "182-Breakout-Tiles.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 384,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 384,
+						"h": 128
+					},
+					"frame": {
+						"x": 773,
+						"y": 911,
+						"w": 384,
+						"h": 128
+					}
+				},
+				{
+					"filename": "183-Breakout-Tiles.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 384,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 384,
+						"h": 128
+					},
+					"frame": {
+						"x": 1159,
+						"y": 911,
+						"w": 384,
+						"h": 128
+					}
+				},
+				{
+					"filename": "184-Breakout-Tiles.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 384,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 384,
+						"h": 128
+					},
+					"frame": {
+						"x": 1545,
+						"y": 911,
+						"w": 384,
+						"h": 128
+					}
+				},
+				{
+					"filename": "205-Breakout-Tiles.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 384,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 384,
+						"h": 128
+					},
+					"frame": {
+						"x": 1,
+						"y": 1041,
+						"w": 384,
+						"h": 128
+					}
+				},
+				{
+					"filename": "206-Breakout-Tiles.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 384,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 384,
+						"h": 128
+					},
+					"frame": {
+						"x": 387,
+						"y": 1041,
+						"w": 384,
+						"h": 128
+					}
+				},
+				{
+					"filename": "207-Breakout-Tiles.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 384,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 384,
+						"h": 128
+					},
+					"frame": {
+						"x": 773,
+						"y": 1041,
+						"w": 384,
+						"h": 128
+					}
+				},
+				{
+					"filename": "208-Breakout-Tiles.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 384,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 384,
+						"h": 128
+					},
+					"frame": {
+						"x": 1159,
+						"y": 1041,
+						"w": 384,
+						"h": 128
+					}
+				},
+				{
+					"filename": "209-Breakout-Tiles.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 384,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 384,
+						"h": 128
+					},
+					"frame": {
+						"x": 1545,
+						"y": 1041,
+						"w": 384,
+						"h": 128
+					}
+				},
+				{
+					"filename": "010-Breakout-Tiles.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 366,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 366,
+						"h": 128
+					},
+					"frame": {
+						"x": 1,
+						"y": 1171,
+						"w": 366,
+						"h": 128
+					}
+				},
+				{
+					"filename": "011-Breakout-Tiles.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 366,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 366,
+						"h": 128
+					},
+					"frame": {
+						"x": 369,
+						"y": 1171,
+						"w": 366,
+						"h": 128
+					}
+				},
+				{
+					"filename": "012-Breakout-Tiles.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 366,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 366,
+						"h": 128
+					},
+					"frame": {
+						"x": 737,
+						"y": 1171,
+						"w": 366,
+						"h": 128
+					}
+				},
+				{
+					"filename": "013-Breakout-Tiles.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 366,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 366,
+						"h": 128
+					},
+					"frame": {
+						"x": 1105,
+						"y": 1171,
+						"w": 366,
+						"h": 128
+					}
+				},
+				{
+					"filename": "014-Breakout-Tiles.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 366,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 366,
+						"h": 128
+					},
+					"frame": {
+						"x": 1473,
+						"y": 1171,
+						"w": 366,
+						"h": 128
+					}
+				},
+				{
+					"filename": "034-Breakout-Tiles.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 366,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 366,
+						"h": 128
+					},
+					"frame": {
+						"x": 1,
+						"y": 1301,
+						"w": 366,
+						"h": 128
+					}
+				},
+				{
+					"filename": "035-Breakout-Tiles.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 366,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 366,
+						"h": 128
+					},
+					"frame": {
+						"x": 369,
+						"y": 1301,
+						"w": 366,
+						"h": 128
+					}
+				},
+				{
+					"filename": "036-Breakout-Tiles.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 366,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 366,
+						"h": 128
+					},
+					"frame": {
+						"x": 737,
+						"y": 1301,
+						"w": 366,
+						"h": 128
+					}
+				},
+				{
+					"filename": "037-Breakout-Tiles.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 366,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 366,
+						"h": 128
+					},
+					"frame": {
+						"x": 1105,
+						"y": 1301,
+						"w": 366,
+						"h": 128
+					}
+				},
+				{
+					"filename": "038-Breakout-Tiles.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 366,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 366,
+						"h": 128
+					},
+					"frame": {
+						"x": 1473,
+						"y": 1301,
+						"w": 366,
+						"h": 128
+					}
+				},
+				{
+					"filename": "058-Breakout-Tiles.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 366,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 366,
+						"h": 128
+					},
+					"frame": {
+						"x": 1,
+						"y": 1431,
+						"w": 366,
+						"h": 128
+					}
+				},
+				{
+					"filename": "059-Breakout-Tiles.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 366,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 366,
+						"h": 128
+					},
+					"frame": {
+						"x": 369,
+						"y": 1431,
+						"w": 366,
+						"h": 128
+					}
+				},
+				{
+					"filename": "060-Breakout-Tiles.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 366,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 366,
+						"h": 128
+					},
+					"frame": {
+						"x": 737,
+						"y": 1431,
+						"w": 366,
+						"h": 128
+					}
+				},
+				{
+					"filename": "061-Breakout-Tiles.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 366,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 366,
+						"h": 128
+					},
+					"frame": {
+						"x": 1105,
+						"y": 1431,
+						"w": 366,
+						"h": 128
+					}
+				},
+				{
+					"filename": "062-Breakout-Tiles.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 366,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 366,
+						"h": 128
+					},
+					"frame": {
+						"x": 1473,
+						"y": 1431,
+						"w": 366,
+						"h": 128
+					}
+				},
+				{
+					"filename": "082-Breakout-Tiles.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 366,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 366,
+						"h": 128
+					},
+					"frame": {
+						"x": 1,
+						"y": 1561,
+						"w": 366,
+						"h": 128
+					}
+				},
+				{
+					"filename": "083-Breakout-Tiles.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 366,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 366,
+						"h": 128
+					},
+					"frame": {
+						"x": 369,
+						"y": 1561,
+						"w": 366,
+						"h": 128
+					}
+				},
+				{
+					"filename": "084-Breakout-Tiles.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 366,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 366,
+						"h": 128
+					},
+					"frame": {
+						"x": 737,
+						"y": 1561,
+						"w": 366,
+						"h": 128
+					}
+				},
+				{
+					"filename": "085-Breakout-Tiles.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 366,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 366,
+						"h": 128
+					},
+					"frame": {
+						"x": 1105,
+						"y": 1561,
+						"w": 366,
+						"h": 128
+					}
+				},
+				{
+					"filename": "086-Breakout-Tiles.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 366,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 366,
+						"h": 128
+					},
+					"frame": {
+						"x": 1473,
+						"y": 1561,
+						"w": 366,
+						"h": 128
+					}
+				},
+				{
+					"filename": "106-Breakout-Tiles.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 366,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 366,
+						"h": 128
+					},
+					"frame": {
+						"x": 1,
+						"y": 1691,
+						"w": 366,
+						"h": 128
+					}
+				},
+				{
+					"filename": "107-Breakout-Tiles.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 366,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 366,
+						"h": 128
+					},
+					"frame": {
+						"x": 369,
+						"y": 1691,
+						"w": 366,
+						"h": 128
+					}
+				},
+				{
+					"filename": "108-Breakout-Tiles.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 366,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 366,
+						"h": 128
+					},
+					"frame": {
+						"x": 737,
+						"y": 1691,
+						"w": 366,
+						"h": 128
+					}
+				},
+				{
+					"filename": "109-Breakout-Tiles.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 366,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 366,
+						"h": 128
+					},
+					"frame": {
+						"x": 1105,
+						"y": 1691,
+						"w": 366,
+						"h": 128
+					}
+				},
+				{
+					"filename": "110-Breakout-Tiles.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 366,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 366,
+						"h": 128
+					},
+					"frame": {
+						"x": 1473,
+						"y": 1691,
+						"w": 366,
+						"h": 128
+					}
+				}
+			]
+		},
+		{
+			"image": "breakout-3.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1948,
+				"h": 1820
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "330-Breakout-Tiles.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 693,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 693,
+						"h": 128
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 693,
+						"h": 128
+					}
+				},
+				{
+					"filename": "331-Breakout-Tiles.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 693,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 693,
+						"h": 128
+					},
+					"frame": {
+						"x": 696,
+						"y": 1,
+						"w": 693,
+						"h": 128
+					}
+				},
+				{
+					"filename": "231-Breakout-Tiles.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 485,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 485,
+						"h": 128
+					},
+					"frame": {
+						"x": 1391,
+						"y": 1,
+						"w": 485,
+						"h": 128
+					}
+				},
+				{
+					"filename": "232-Breakout-Tiles.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 485,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 485,
+						"h": 128
+					},
+					"frame": {
+						"x": 1,
+						"y": 131,
+						"w": 485,
+						"h": 128
+					}
+				},
+				{
+					"filename": "233-Breakout-Tiles.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 485,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 485,
+						"h": 128
+					},
+					"frame": {
+						"x": 488,
+						"y": 131,
+						"w": 485,
+						"h": 128
+					}
+				},
+				{
+					"filename": "250-Breakout-Tiles.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 485,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 485,
+						"h": 128
+					},
+					"frame": {
+						"x": 975,
+						"y": 131,
+						"w": 485,
+						"h": 128
+					}
+				},
+				{
+					"filename": "251-Breakout-Tiles.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 485,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 485,
+						"h": 128
+					},
+					"frame": {
+						"x": 1462,
+						"y": 131,
+						"w": 485,
+						"h": 128
+					}
+				},
+				{
+					"filename": "252-Breakout-Tiles.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 485,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 485,
+						"h": 128
+					},
+					"frame": {
+						"x": 1,
+						"y": 261,
+						"w": 485,
+						"h": 128
+					}
+				},
+				{
+					"filename": "253-Breakout-Tiles.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 485,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 485,
+						"h": 128
+					},
+					"frame": {
+						"x": 488,
+						"y": 261,
+						"w": 485,
+						"h": 128
+					}
+				},
+				{
+					"filename": "270-Breakout-Tiles.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 485,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 485,
+						"h": 128
+					},
+					"frame": {
+						"x": 975,
+						"y": 261,
+						"w": 485,
+						"h": 128
+					}
+				},
+				{
+					"filename": "271-Breakout-Tiles.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 485,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 485,
+						"h": 128
+					},
+					"frame": {
+						"x": 1462,
+						"y": 261,
+						"w": 485,
+						"h": 128
+					}
+				},
+				{
+					"filename": "272-Breakout-Tiles.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 485,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 485,
+						"h": 128
+					},
+					"frame": {
+						"x": 1,
+						"y": 391,
+						"w": 485,
+						"h": 128
+					}
+				},
+				{
+					"filename": "273-Breakout-Tiles.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 485,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 485,
+						"h": 128
+					},
+					"frame": {
+						"x": 488,
+						"y": 391,
+						"w": 485,
+						"h": 128
+					}
+				},
+				{
+					"filename": "290-Breakout-Tiles.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 485,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 485,
+						"h": 128
+					},
+					"frame": {
+						"x": 975,
+						"y": 391,
+						"w": 485,
+						"h": 128
+					}
+				},
+				{
+					"filename": "291-Breakout-Tiles.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 485,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 485,
+						"h": 128
+					},
+					"frame": {
+						"x": 1462,
+						"y": 391,
+						"w": 485,
+						"h": 128
+					}
+				},
+				{
+					"filename": "292-Breakout-Tiles.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 485,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 485,
+						"h": 128
+					},
+					"frame": {
+						"x": 1,
+						"y": 521,
+						"w": 485,
+						"h": 128
+					}
+				},
+				{
+					"filename": "293-Breakout-Tiles.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 485,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 485,
+						"h": 128
+					},
+					"frame": {
+						"x": 488,
+						"y": 521,
+						"w": 485,
+						"h": 128
+					}
+				},
+				{
+					"filename": "310-Breakout-Tiles.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 485,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 485,
+						"h": 128
+					},
+					"frame": {
+						"x": 975,
+						"y": 521,
+						"w": 485,
+						"h": 128
+					}
+				},
+				{
+					"filename": "311-Breakout-Tiles.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 485,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 485,
+						"h": 128
+					},
+					"frame": {
+						"x": 1462,
+						"y": 521,
+						"w": 485,
+						"h": 128
+					}
+				},
+				{
+					"filename": "312-Breakout-Tiles.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 485,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 485,
+						"h": 128
+					},
+					"frame": {
+						"x": 1,
+						"y": 651,
+						"w": 485,
+						"h": 128
+					}
+				},
+				{
+					"filename": "313-Breakout-Tiles.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 485,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 485,
+						"h": 128
+					},
+					"frame": {
+						"x": 1,
+						"y": 781,
+						"w": 485,
+						"h": 128
+					}
+				},
+				{
+					"filename": "111-Breakout-Tiles.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 384,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 384,
+						"h": 128
+					},
+					"frame": {
+						"x": 1,
+						"y": 911,
+						"w": 384,
+						"h": 128
+					}
+				},
+				{
+					"filename": "112-Breakout-Tiles.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 384,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 384,
+						"h": 128
+					},
+					"frame": {
+						"x": 1,
+						"y": 1041,
+						"w": 384,
+						"h": 128
+					}
+				},
+				{
+					"filename": "113-Breakout-Tiles.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 384,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 384,
+						"h": 128
+					},
+					"frame": {
+						"x": 1,
+						"y": 1171,
+						"w": 384,
+						"h": 128
+					}
+				},
+				{
+					"filename": "114-Breakout-Tiles.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 384,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 384,
+						"h": 128
+					},
+					"frame": {
+						"x": 1,
+						"y": 1301,
+						"w": 384,
+						"h": 128
+					}
+				},
+				{
+					"filename": "115-Breakout-Tiles.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 384,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 384,
+						"h": 128
+					},
+					"frame": {
+						"x": 1,
+						"y": 1431,
+						"w": 384,
+						"h": 128
+					}
+				},
+				{
+					"filename": "135-Breakout-Tiles.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 384,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 384,
+						"h": 128
+					},
+					"frame": {
+						"x": 1,
+						"y": 1561,
+						"w": 384,
+						"h": 128
+					}
+				},
+				{
+					"filename": "136-Breakout-Tiles.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 384,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 384,
+						"h": 128
+					},
+					"frame": {
+						"x": 1,
+						"y": 1691,
+						"w": 384,
+						"h": 128
+					}
+				},
+				{
+					"filename": "137-Breakout-Tiles.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 384,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 384,
+						"h": 128
+					},
+					"frame": {
+						"x": 387,
+						"y": 911,
+						"w": 384,
+						"h": 128
+					}
+				},
+				{
+					"filename": "138-Breakout-Tiles.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 384,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 384,
+						"h": 128
+					},
+					"frame": {
+						"x": 488,
+						"y": 651,
+						"w": 384,
+						"h": 128
+					}
+				},
+				{
+					"filename": "139-Breakout-Tiles.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 384,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 384,
+						"h": 128
+					},
+					"frame": {
+						"x": 488,
+						"y": 781,
+						"w": 384,
+						"h": 128
+					}
+				},
+				{
+					"filename": "160-Breakout-Tiles.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 384,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 384,
+						"h": 128
+					},
+					"frame": {
+						"x": 387,
+						"y": 1041,
+						"w": 384,
+						"h": 128
+					}
+				},
+				{
+					"filename": "161-Breakout-Tiles.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 384,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 384,
+						"h": 128
+					},
+					"frame": {
+						"x": 387,
+						"y": 1171,
+						"w": 384,
+						"h": 128
+					}
+				},
+				{
+					"filename": "162-Breakout-Tiles.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 384,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 384,
+						"h": 128
+					},
+					"frame": {
+						"x": 387,
+						"y": 1301,
+						"w": 384,
+						"h": 128
+					}
+				},
+				{
+					"filename": "163-Breakout-Tiles.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 384,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 384,
+						"h": 128
+					},
+					"frame": {
+						"x": 387,
+						"y": 1431,
+						"w": 384,
+						"h": 128
+					}
+				},
+				{
+					"filename": "164-Breakout-Tiles.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 384,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 384,
+						"h": 128
+					},
+					"frame": {
+						"x": 387,
+						"y": 1561,
+						"w": 384,
+						"h": 128
+					}
+				},
+				{
+					"filename": "185-Breakout-Tiles.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 384,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 384,
+						"h": 128
+					},
+					"frame": {
+						"x": 387,
+						"y": 1691,
+						"w": 384,
+						"h": 128
+					}
+				},
+				{
+					"filename": "186-Breakout-Tiles.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 384,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 384,
+						"h": 128
+					},
+					"frame": {
+						"x": 874,
+						"y": 651,
+						"w": 384,
+						"h": 128
+					}
+				},
+				{
+					"filename": "187-Breakout-Tiles.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 384,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 384,
+						"h": 128
+					},
+					"frame": {
+						"x": 1260,
+						"y": 651,
+						"w": 384,
+						"h": 128
+					}
+				},
+				{
+					"filename": "213-Breakout-Tiles.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 128,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 128,
+						"h": 128
+					},
+					"frame": {
+						"x": 1646,
+						"y": 651,
+						"w": 128,
+						"h": 128
+					}
+				},
+				{
+					"filename": "221-Breakout-Tiles.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 128,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 128,
+						"h": 128
+					},
+					"frame": {
+						"x": 1776,
+						"y": 651,
+						"w": 128,
+						"h": 128
+					}
+				},
+				{
+					"filename": "188-Breakout-Tiles.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 384,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 384,
+						"h": 128
+					},
+					"frame": {
+						"x": 874,
+						"y": 781,
+						"w": 384,
+						"h": 128
+					}
+				},
+				{
+					"filename": "189-Breakout-Tiles.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 384,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 384,
+						"h": 128
+					},
+					"frame": {
+						"x": 1260,
+						"y": 781,
+						"w": 384,
+						"h": 128
+					}
+				},
+				{
+					"filename": "229-Breakout-Tiles.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 128,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 128,
+						"h": 128
+					},
+					"frame": {
+						"x": 1646,
+						"y": 781,
+						"w": 128,
+						"h": 128
+					}
+				},
+				{
+					"filename": "341-Breakout-Tiles.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 128,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 128,
+						"h": 128
+					},
+					"frame": {
+						"x": 1776,
+						"y": 781,
+						"w": 128,
+						"h": 128
+					}
+				},
+				{
+					"filename": "210-Breakout-Tiles.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 384,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 384,
+						"h": 128
+					},
+					"frame": {
+						"x": 773,
+						"y": 911,
+						"w": 384,
+						"h": 128
+					}
+				},
+				{
+					"filename": "015-Breakout-Tiles.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 366,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 366,
+						"h": 128
+					},
+					"frame": {
+						"x": 1159,
+						"y": 911,
+						"w": 366,
+						"h": 128
+					}
+				},
+				{
+					"filename": "016-Breakout-Tiles.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 366,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 366,
+						"h": 128
+					},
+					"frame": {
+						"x": 1527,
+						"y": 911,
+						"w": 366,
+						"h": 128
+					}
+				},
+				{
+					"filename": "017-Breakout-Tiles.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 366,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 366,
+						"h": 128
+					},
+					"frame": {
+						"x": 773,
+						"y": 1041,
+						"w": 366,
+						"h": 128
+					}
+				},
+				{
+					"filename": "018-Breakout-Tiles.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 366,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 366,
+						"h": 128
+					},
+					"frame": {
+						"x": 1141,
+						"y": 1041,
+						"w": 366,
+						"h": 128
+					}
+				},
+				{
+					"filename": "019-Breakout-Tiles.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 366,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 366,
+						"h": 128
+					},
+					"frame": {
+						"x": 1509,
+						"y": 1041,
+						"w": 366,
+						"h": 128
+					}
+				},
+				{
+					"filename": "039-Breakout-Tiles.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 366,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 366,
+						"h": 128
+					},
+					"frame": {
+						"x": 773,
+						"y": 1171,
+						"w": 366,
+						"h": 128
+					}
+				},
+				{
+					"filename": "040-Breakout-Tiles.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 366,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 366,
+						"h": 128
+					},
+					"frame": {
+						"x": 773,
+						"y": 1301,
+						"w": 366,
+						"h": 128
+					}
+				},
+				{
+					"filename": "041-Breakout-Tiles.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 366,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 366,
+						"h": 128
+					},
+					"frame": {
+						"x": 773,
+						"y": 1431,
+						"w": 366,
+						"h": 128
+					}
+				},
+				{
+					"filename": "042-Breakout-Tiles.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 366,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 366,
+						"h": 128
+					},
+					"frame": {
+						"x": 773,
+						"y": 1561,
+						"w": 366,
+						"h": 128
+					}
+				},
+				{
+					"filename": "043-Breakout-Tiles.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 366,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 366,
+						"h": 128
+					},
+					"frame": {
+						"x": 773,
+						"y": 1691,
+						"w": 366,
+						"h": 128
+					}
+				},
+				{
+					"filename": "063-Breakout-Tiles.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 366,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 366,
+						"h": 128
+					},
+					"frame": {
+						"x": 1141,
+						"y": 1171,
+						"w": 366,
+						"h": 128
+					}
+				},
+				{
+					"filename": "064-Breakout-Tiles.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 366,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 366,
+						"h": 128
+					},
+					"frame": {
+						"x": 1509,
+						"y": 1171,
+						"w": 366,
+						"h": 128
+					}
+				},
+				{
+					"filename": "065-Breakout-Tiles.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 366,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 366,
+						"h": 128
+					},
+					"frame": {
+						"x": 1141,
+						"y": 1301,
+						"w": 366,
+						"h": 128
+					}
+				},
+				{
+					"filename": "066-Breakout-Tiles.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 366,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 366,
+						"h": 128
+					},
+					"frame": {
+						"x": 1509,
+						"y": 1301,
+						"w": 366,
+						"h": 128
+					}
+				},
+				{
+					"filename": "067-Breakout-Tiles.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 366,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 366,
+						"h": 128
+					},
+					"frame": {
+						"x": 1141,
+						"y": 1431,
+						"w": 366,
+						"h": 128
+					}
+				},
+				{
+					"filename": "087-Breakout-Tiles.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 366,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 366,
+						"h": 128
+					},
+					"frame": {
+						"x": 1509,
+						"y": 1431,
+						"w": 366,
+						"h": 128
+					}
+				},
+				{
+					"filename": "088-Breakout-Tiles.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 366,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 366,
+						"h": 128
+					},
+					"frame": {
+						"x": 1141,
+						"y": 1561,
+						"w": 366,
+						"h": 128
+					}
+				},
+				{
+					"filename": "089-Breakout-Tiles.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 366,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 366,
+						"h": 128
+					},
+					"frame": {
+						"x": 1141,
+						"y": 1691,
+						"w": 366,
+						"h": 128
+					}
+				},
+				{
+					"filename": "090-Breakout-Tiles.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 366,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 366,
+						"h": 128
+					},
+					"frame": {
+						"x": 1509,
+						"y": 1561,
+						"w": 366,
+						"h": 128
+					}
+				},
+				{
+					"filename": "091-Breakout-Tiles.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 366,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 366,
+						"h": 128
+					},
+					"frame": {
+						"x": 1509,
+						"y": 1691,
+						"w": 366,
+						"h": 128
+					}
+				}
+			]
+		},
+		{
+			"image": "breakout-4.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1948,
+				"h": 1820
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "020-Breakout-Tiles.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 366,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 366,
+						"h": 128
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 366,
+						"h": 128
+					}
+				},
+				{
+					"filename": "021-Breakout-Tiles.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 366,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 366,
+						"h": 128
+					},
+					"frame": {
+						"x": 369,
+						"y": 1,
+						"w": 366,
+						"h": 128
+					}
+				},
+				{
+					"filename": "022-Breakout-Tiles.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 366,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 366,
+						"h": 128
+					},
+					"frame": {
+						"x": 737,
+						"y": 1,
+						"w": 366,
+						"h": 128
+					}
+				},
+				{
+					"filename": "023-Breakout-Tiles.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 366,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 366,
+						"h": 128
+					},
+					"frame": {
+						"x": 1105,
+						"y": 1,
+						"w": 366,
+						"h": 128
+					}
+				},
+				{
+					"filename": "024-Breakout-Tiles.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 366,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 366,
+						"h": 128
+					},
+					"frame": {
+						"x": 1473,
+						"y": 1,
+						"w": 366,
+						"h": 128
+					}
+				},
+				{
+					"filename": "214-Breakout-Tiles.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 128,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 128,
+						"h": 128
+					},
+					"frame": {
+						"x": 1,
+						"y": 131,
+						"w": 128,
+						"h": 128
+					}
+				},
+				{
+					"filename": "044-Breakout-Tiles.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 366,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 366,
+						"h": 128
+					},
+					"frame": {
+						"x": 131,
+						"y": 131,
+						"w": 366,
+						"h": 128
+					}
+				},
+				{
+					"filename": "045-Breakout-Tiles.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 366,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 366,
+						"h": 128
+					},
+					"frame": {
+						"x": 499,
+						"y": 131,
+						"w": 366,
+						"h": 128
+					}
+				},
+				{
+					"filename": "046-Breakout-Tiles.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 366,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 366,
+						"h": 128
+					},
+					"frame": {
+						"x": 867,
+						"y": 131,
+						"w": 366,
+						"h": 128
+					}
+				},
+				{
+					"filename": "047-Breakout-Tiles.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 366,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 366,
+						"h": 128
+					},
+					"frame": {
+						"x": 1235,
+						"y": 131,
+						"w": 366,
+						"h": 128
+					}
+				},
+				{
+					"filename": "222-Breakout-Tiles.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 128,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 128,
+						"h": 128
+					},
+					"frame": {
+						"x": 1603,
+						"y": 131,
+						"w": 128,
+						"h": 128
+					}
+				},
+				{
+					"filename": "230-Breakout-Tiles.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 128,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 128,
+						"h": 128
+					},
+					"frame": {
+						"x": 1733,
+						"y": 131,
+						"w": 128,
+						"h": 128
+					}
+				},
+				{
+					"filename": "048-Breakout-Tiles.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 366,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 366,
+						"h": 128
+					},
+					"frame": {
+						"x": 1,
+						"y": 261,
+						"w": 366,
+						"h": 128
+					}
+				},
+				{
+					"filename": "068-Breakout-Tiles.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 366,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 366,
+						"h": 128
+					},
+					"frame": {
+						"x": 369,
+						"y": 261,
+						"w": 366,
+						"h": 128
+					}
+				},
+				{
+					"filename": "069-Breakout-Tiles.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 366,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 366,
+						"h": 128
+					},
+					"frame": {
+						"x": 737,
+						"y": 261,
+						"w": 366,
+						"h": 128
+					}
+				},
+				{
+					"filename": "070-Breakout-Tiles.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 366,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 366,
+						"h": 128
+					},
+					"frame": {
+						"x": 1105,
+						"y": 261,
+						"w": 366,
+						"h": 128
+					}
+				},
+				{
+					"filename": "071-Breakout-Tiles.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 366,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 366,
+						"h": 128
+					},
+					"frame": {
+						"x": 1473,
+						"y": 261,
+						"w": 366,
+						"h": 128
+					}
+				},
+				{
+					"filename": "072-Breakout-Tiles.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 366,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 366,
+						"h": 128
+					},
+					"frame": {
+						"x": 1,
+						"y": 391,
+						"w": 366,
+						"h": 128
+					}
+				},
+				{
+					"filename": "092-Breakout-Tiles.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 366,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 366,
+						"h": 128
+					},
+					"frame": {
+						"x": 369,
+						"y": 391,
+						"w": 366,
+						"h": 128
+					}
+				},
+				{
+					"filename": "093-Breakout-Tiles.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 366,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 366,
+						"h": 128
+					},
+					"frame": {
+						"x": 737,
+						"y": 391,
+						"w": 366,
+						"h": 128
+					}
+				},
+				{
+					"filename": "094-Breakout-Tiles.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 366,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 366,
+						"h": 128
+					},
+					"frame": {
+						"x": 1105,
+						"y": 391,
+						"w": 366,
+						"h": 128
+					}
+				},
+				{
+					"filename": "095-Breakout-Tiles.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 366,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 366,
+						"h": 128
+					},
+					"frame": {
+						"x": 1473,
+						"y": 391,
+						"w": 366,
+						"h": 128
+					}
+				},
+				{
+					"filename": "096-Breakout-Tiles.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 366,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 366,
+						"h": 128
+					},
+					"frame": {
+						"x": 1,
+						"y": 521,
+						"w": 366,
+						"h": 128
+					}
+				},
+				{
+					"filename": "116-Breakout-Tiles.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 384,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 384,
+						"h": 128
+					},
+					"frame": {
+						"x": 369,
+						"y": 521,
+						"w": 384,
+						"h": 128
+					}
+				},
+				{
+					"filename": "117-Breakout-Tiles.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 384,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 384,
+						"h": 128
+					},
+					"frame": {
+						"x": 755,
+						"y": 521,
+						"w": 384,
+						"h": 128
+					}
+				},
+				{
+					"filename": "118-Breakout-Tiles.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 384,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 384,
+						"h": 128
+					},
+					"frame": {
+						"x": 1141,
+						"y": 521,
+						"w": 384,
+						"h": 128
+					}
+				},
+				{
+					"filename": "119-Breakout-Tiles.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 384,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 384,
+						"h": 128
+					},
+					"frame": {
+						"x": 1527,
+						"y": 521,
+						"w": 384,
+						"h": 128
+					}
+				},
+				{
+					"filename": "120-Breakout-Tiles.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 384,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 384,
+						"h": 128
+					},
+					"frame": {
+						"x": 1,
+						"y": 651,
+						"w": 384,
+						"h": 128
+					}
+				},
+				{
+					"filename": "140-Breakout-Tiles.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 384,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 384,
+						"h": 128
+					},
+					"frame": {
+						"x": 387,
+						"y": 651,
+						"w": 384,
+						"h": 128
+					}
+				},
+				{
+					"filename": "141-Breakout-Tiles.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 384,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 384,
+						"h": 128
+					},
+					"frame": {
+						"x": 773,
+						"y": 651,
+						"w": 384,
+						"h": 128
+					}
+				},
+				{
+					"filename": "142-Breakout-Tiles.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 384,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 384,
+						"h": 128
+					},
+					"frame": {
+						"x": 1159,
+						"y": 651,
+						"w": 384,
+						"h": 128
+					}
+				},
+				{
+					"filename": "143-Breakout-Tiles.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 384,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 384,
+						"h": 128
+					},
+					"frame": {
+						"x": 1545,
+						"y": 651,
+						"w": 384,
+						"h": 128
+					}
+				},
+				{
+					"filename": "144-Breakout-Tiles.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 384,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 384,
+						"h": 128
+					},
+					"frame": {
+						"x": 1,
+						"y": 781,
+						"w": 384,
+						"h": 128
+					}
+				},
+				{
+					"filename": "165-Breakout-Tiles.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 384,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 384,
+						"h": 128
+					},
+					"frame": {
+						"x": 387,
+						"y": 781,
+						"w": 384,
+						"h": 128
+					}
+				},
+				{
+					"filename": "166-Breakout-Tiles.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 384,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 384,
+						"h": 128
+					},
+					"frame": {
+						"x": 773,
+						"y": 781,
+						"w": 384,
+						"h": 128
+					}
+				},
+				{
+					"filename": "167-Breakout-Tiles.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 384,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 384,
+						"h": 128
+					},
+					"frame": {
+						"x": 1159,
+						"y": 781,
+						"w": 384,
+						"h": 128
+					}
+				},
+				{
+					"filename": "168-Breakout-Tiles.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 384,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 384,
+						"h": 128
+					},
+					"frame": {
+						"x": 1545,
+						"y": 781,
+						"w": 384,
+						"h": 128
+					}
+				},
+				{
+					"filename": "169-Breakout-Tiles.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 384,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 384,
+						"h": 128
+					},
+					"frame": {
+						"x": 1,
+						"y": 911,
+						"w": 384,
+						"h": 128
+					}
+				},
+				{
+					"filename": "190-Breakout-Tiles.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 384,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 384,
+						"h": 128
+					},
+					"frame": {
+						"x": 387,
+						"y": 911,
+						"w": 384,
+						"h": 128
+					}
+				},
+				{
+					"filename": "191-Breakout-Tiles.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 384,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 384,
+						"h": 128
+					},
+					"frame": {
+						"x": 773,
+						"y": 911,
+						"w": 384,
+						"h": 128
+					}
+				},
+				{
+					"filename": "192-Breakout-Tiles.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 384,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 384,
+						"h": 128
+					},
+					"frame": {
+						"x": 1159,
+						"y": 911,
+						"w": 384,
+						"h": 128
+					}
+				},
+				{
+					"filename": "193-Breakout-Tiles.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 384,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 384,
+						"h": 128
+					},
+					"frame": {
+						"x": 1545,
+						"y": 911,
+						"w": 384,
+						"h": 128
+					}
+				},
+				{
+					"filename": "194-Breakout-Tiles.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 384,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 384,
+						"h": 128
+					},
+					"frame": {
+						"x": 1,
+						"y": 1041,
+						"w": 384,
+						"h": 128
+					}
+				},
+				{
+					"filename": "234-Breakout-Tiles.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 485,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 485,
+						"h": 128
+					},
+					"frame": {
+						"x": 387,
+						"y": 1041,
+						"w": 485,
+						"h": 128
+					}
+				},
+				{
+					"filename": "235-Breakout-Tiles.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 485,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 485,
+						"h": 128
+					},
+					"frame": {
+						"x": 874,
+						"y": 1041,
+						"w": 485,
+						"h": 128
+					}
+				},
+				{
+					"filename": "236-Breakout-Tiles.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 485,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 485,
+						"h": 128
+					},
+					"frame": {
+						"x": 1361,
+						"y": 1041,
+						"w": 485,
+						"h": 128
+					}
+				},
+				{
+					"filename": "237-Breakout-Tiles.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 485,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 485,
+						"h": 128
+					},
+					"frame": {
+						"x": 1,
+						"y": 1171,
+						"w": 485,
+						"h": 128
+					}
+				},
+				{
+					"filename": "254-Breakout-Tiles.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 485,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 485,
+						"h": 128
+					},
+					"frame": {
+						"x": 488,
+						"y": 1171,
+						"w": 485,
+						"h": 128
+					}
+				},
+				{
+					"filename": "255-Breakout-Tiles.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 485,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 485,
+						"h": 128
+					},
+					"frame": {
+						"x": 975,
+						"y": 1171,
+						"w": 485,
+						"h": 128
+					}
+				},
+				{
+					"filename": "256-Breakout-Tiles.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 485,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 485,
+						"h": 128
+					},
+					"frame": {
+						"x": 1462,
+						"y": 1171,
+						"w": 485,
+						"h": 128
+					}
+				},
+				{
+					"filename": "257-Breakout-Tiles.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 485,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 485,
+						"h": 128
+					},
+					"frame": {
+						"x": 1,
+						"y": 1301,
+						"w": 485,
+						"h": 128
+					}
+				},
+				{
+					"filename": "274-Breakout-Tiles.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 485,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 485,
+						"h": 128
+					},
+					"frame": {
+						"x": 488,
+						"y": 1301,
+						"w": 485,
+						"h": 128
+					}
+				},
+				{
+					"filename": "275-Breakout-Tiles.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 485,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 485,
+						"h": 128
+					},
+					"frame": {
+						"x": 975,
+						"y": 1301,
+						"w": 485,
+						"h": 128
+					}
+				},
+				{
+					"filename": "276-Breakout-Tiles.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 485,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 485,
+						"h": 128
+					},
+					"frame": {
+						"x": 1462,
+						"y": 1301,
+						"w": 485,
+						"h": 128
+					}
+				},
+				{
+					"filename": "277-Breakout-Tiles.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 485,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 485,
+						"h": 128
+					},
+					"frame": {
+						"x": 1,
+						"y": 1431,
+						"w": 485,
+						"h": 128
+					}
+				},
+				{
+					"filename": "294-Breakout-Tiles.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 485,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 485,
+						"h": 128
+					},
+					"frame": {
+						"x": 488,
+						"y": 1431,
+						"w": 485,
+						"h": 128
+					}
+				},
+				{
+					"filename": "295-Breakout-Tiles.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 485,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 485,
+						"h": 128
+					},
+					"frame": {
+						"x": 975,
+						"y": 1431,
+						"w": 485,
+						"h": 128
+					}
+				},
+				{
+					"filename": "296-Breakout-Tiles.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 485,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 485,
+						"h": 128
+					},
+					"frame": {
+						"x": 1462,
+						"y": 1431,
+						"w": 485,
+						"h": 128
+					}
+				},
+				{
+					"filename": "297-Breakout-Tiles.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 485,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 485,
+						"h": 128
+					},
+					"frame": {
+						"x": 1,
+						"y": 1561,
+						"w": 485,
+						"h": 128
+					}
+				},
+				{
+					"filename": "314-Breakout-Tiles.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 485,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 485,
+						"h": 128
+					},
+					"frame": {
+						"x": 488,
+						"y": 1561,
+						"w": 485,
+						"h": 128
+					}
+				},
+				{
+					"filename": "315-Breakout-Tiles.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 485,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 485,
+						"h": 128
+					},
+					"frame": {
+						"x": 975,
+						"y": 1561,
+						"w": 485,
+						"h": 128
+					}
+				},
+				{
+					"filename": "316-Breakout-Tiles.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 485,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 485,
+						"h": 128
+					},
+					"frame": {
+						"x": 1462,
+						"y": 1561,
+						"w": 485,
+						"h": 128
+					}
+				},
+				{
+					"filename": "317-Breakout-Tiles.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 488,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 0,
+						"w": 487,
+						"h": 128
+					},
+					"frame": {
+						"x": 1,
+						"y": 1691,
+						"w": 487,
+						"h": 128
+					}
+				},
+				{
+					"filename": "332-Breakout-Tiles.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 693,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 693,
+						"h": 128
+					},
+					"frame": {
+						"x": 490,
+						"y": 1691,
+						"w": 693,
+						"h": 128
+					}
+				},
+				{
+					"filename": "333-Breakout-Tiles.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 693,
+						"h": 128
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 693,
+						"h": 128
+					},
+					"frame": {
+						"x": 1185,
+						"y": 1691,
+						"w": 693,
+						"h": 128
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:29a2ee268ef4c46af46fb774934043f7:a0a76dcc4700e815efabf39a9e9f7dcb:11b5439d88ee90c57e82aea2301786ad$"
+	}
+}
